@@ -1,0 +1,11 @@
+order_id,customer_id,status
+1,1,Delivered
+2,2,Delivered
+3,3,
+4,4,Delivered
+5,5,Cancelled
+6,1,Delivered
+7,6,Pending
+8,7,Delivered
+9,8,Delivered
+10,9,Pending
